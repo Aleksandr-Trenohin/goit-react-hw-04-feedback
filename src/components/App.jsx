@@ -1,9 +1,9 @@
 import { Component } from 'react';
 import { PropTypes } from 'prop-types';
 
-import Section from './Section';
+import Section from './Section/Section';
 import FeedbackOptions from './FeedbackOptions';
-import Statistic from './Statistics';
+import Statistic from './Statistics/Statistics';
 import Notification from './Notification';
 
 export class App extends Component {
