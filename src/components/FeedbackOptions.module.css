@@ -1,0 +1,10 @@
+.btnList {
+  display: flex;
+  padding-left: 13px;
+}
+.btnItem {
+  margin-right: 13px;
+}
+.btn {
+  text-transform: capitalize;
+}

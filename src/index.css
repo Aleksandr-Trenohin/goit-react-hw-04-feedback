@@ -13,3 +13,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* global */
+
+ul,
+ol {
+  list-style: none;
+}
+button {
+  font: inherit;
+  color: inherit;
+
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
